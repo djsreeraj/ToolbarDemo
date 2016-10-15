@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">ToolbarDemo</string>
+    <string name="my_toolbar_title">Profile</string>
+    <string name="my_toolbar_subtitle">user@gmail.com</string>
 </resources>

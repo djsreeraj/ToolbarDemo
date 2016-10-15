@@ -2,4 +2,6 @@
     <string name="app_name">ToolbarDemo</string>
     <string name="my_toolbar_title">Profile</string>
     <string name="my_toolbar_subtitle">user@gmail.com</string>
+    <string name="menu2">Back</string>
+    <string name="menu1">Edit</string>
 </resources>
